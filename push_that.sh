@@ -1,3 +1,3 @@
 git add *
-git commit -m "$1 - $\t - $\d"
+git commit -m "auto_$1"
 git push origin master
